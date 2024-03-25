@@ -1,0 +1,25 @@
+//0,0175
+
+/*
+https://calorieenverbranden.nl/sporten/traplopen
+Iemand weegt: 70 kg
+MET waarde van Traplopen: 7.7
+Duur: 30 minutes
+De calorieberekening voor Traplopen gedurende 30 minuten is als volgt:
+
+(70) * 7.7 * 0.0175 * 30 minuten = 283 
+
+
+*---------------------
+calorieën per trede 
+
+4.4 kcal
+per minuut ongeveer 0,13 keer je lichaamsgewicht
+
+In een flatgebouw of appartement is de afstand tussen verdiepingen doorgaans 3,4 meter. 
+De trap is meestal verdeeld in twee delen van elk 10 treden. 
+Door de trap te nemen om naar de volgende verdieping te gaan en terug te 
+keren verbrand je dus ongeveer 4,4 calorieën verbranden (20 * 1,7 + 20 * 0,05).
+
+
+*/
